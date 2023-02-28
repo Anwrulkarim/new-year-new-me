@@ -1,1 +1,33 @@
+.container-1{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content:;
+} 
+.container-1 img{
+    margin-left: 2px;
+    width: 142%;
+    
+}
+.container-1-blog h1{
+
+    font-weight: bolder;
+
+}
+.container-1-blog{
+    position: relative;
+
+    padding-right: 5px;
+    top: 250px;
+    width: 50%;
+    font-weight: 700px;
+    
+
+}
+.container-1 button {
+    color: white;
+    background-color: #F15B22;
+    padding: 10px;
+    border-color:#F15B22;
+}
 
